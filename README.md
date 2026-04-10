@@ -14,3 +14,7 @@ A C# console chatbot for PROG6221 Part 1
 - Malware 
 - Email Safety 
 - Social Media 
+
+## CI/CD Pipeline
+   
+   ![CI Success](ci-success)
